@@ -42,6 +42,7 @@ install:
   - preview_link:preview_link
   - redirect:redirect
   - redirect:redirect_404
+  - simple_media_bulk_upload:simple_media_bulk_upload
   - simple_sitemap:simple_sitemap
   # LocalGov Drupal
   - localgov_core:localgov_admin_role
