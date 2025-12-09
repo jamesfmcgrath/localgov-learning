@@ -1,0 +1,13 @@
+uuid: 2cccf5c6-a502-426e-84e0-0b8fa3a92aa0
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: qOqa5uh2UVJ9lLhZHKTs6kqcd_P9f_ZvURXTUYzHqUQ
+id: node.localgov_card
+label: 'LocalGov Card'
+description: ''
+targetEntityType: node
+cache: true

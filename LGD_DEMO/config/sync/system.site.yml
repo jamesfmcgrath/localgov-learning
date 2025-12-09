@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
+langcode: en
+uuid: 76d1844a-ec41-4321-9b1e-a10c751a7710
+name: 'Drush Site-Install'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /localgov-drupal-demo
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
