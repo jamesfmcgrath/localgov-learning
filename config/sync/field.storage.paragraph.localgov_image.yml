@@ -1,0 +1,22 @@
+uuid: 744d60c0-91a3-4636-8358-d418ff4f4b3b
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+    - paragraphs
+_core:
+  default_config_hash: 47rqKnAN42rTGUjHKguPjnldSsmKcLrSZfw6nWFST7I
+id: paragraph.localgov_image
+field_name: localgov_image
+entity_type: paragraph
+type: entity_reference
+settings:
+  target_type: media
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

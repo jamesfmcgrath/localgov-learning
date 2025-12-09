@@ -1,0 +1,21 @@
+uuid: b2e0de9f-f223-4570-aeb2-587896bd38f8
+langcode: en
+status: true
+dependencies:
+  module:
+    - link
+    - paragraphs
+_core:
+  default_config_hash: u4uAibtLR_ubrYkOib263IroWky-oLjLGpxa2sakTcQ
+id: paragraph.localgov_contact_twitter
+field_name: localgov_contact_twitter
+entity_type: paragraph
+type: link
+settings: {  }
+module: link
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

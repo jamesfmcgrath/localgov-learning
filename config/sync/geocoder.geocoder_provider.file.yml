@@ -1,0 +1,12 @@
+uuid: 1594cee2-02cd-4abe-a02d-b12711b542fc
+langcode: en
+status: true
+dependencies:
+  module:
+    - geocoder_field
+_core:
+  default_config_hash: VWIMgsYPqwO5KxMh1FAGdjk-723plvq8YONcX0RONos
+id: file
+label: File
+plugin: file
+configuration: {  }

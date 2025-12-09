@@ -1,0 +1,20 @@
+uuid: a1d8053e-51aa-4031-816e-12200e7a794a
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+_core:
+  default_config_hash: L4MSNb5mFstSY7hMC1J89md9XnwQ135kGLYMsqVEePY
+id: paragraph.localgov_contact_email
+field_name: localgov_contact_email
+entity_type: paragraph
+type: email
+settings: {  }
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,12 @@
+uuid: 629fe4b8-b404-42b7-a57d-02a0be3c0a26
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _1CYx_ksb6-E8WCQNDbvWRlCXZpAc1YREzry-sH-q00
+id: localgov_newsroom_teaser
+label: 'Newsroom teaser'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

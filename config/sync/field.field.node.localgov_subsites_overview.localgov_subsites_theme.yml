@@ -1,0 +1,25 @@
+uuid: 0c3ac2fd-6e05-490a-85e4-be2bd1311d37
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.localgov_subsites_theme
+    - node.type.localgov_subsites_overview
+  module:
+    - options
+_core:
+  default_config_hash: 6lYRCkbLUh0mrtJV2zVN-JAVNuqKHVgYFBuCLghQ7sk
+id: node.localgov_subsites_overview.localgov_subsites_theme
+field_name: localgov_subsites_theme
+entity_type: node
+bundle: localgov_subsites_overview
+label: 'Visual theme'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: theme_a
+default_value_callback: ''
+settings: {  }
+field_type: list_string
